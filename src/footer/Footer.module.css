@@ -1,0 +1,21 @@
+.footer{
+    height: 80px;
+    background-color: #d0acda;
+}
+.footerContainer{
+    justify-content: flex-end;
+}
+.title{
+    
+}
+.boxes{
+    border: 1px solid;
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 30px;
+    height: 30px;
+    background-color: #b4adad;
+}

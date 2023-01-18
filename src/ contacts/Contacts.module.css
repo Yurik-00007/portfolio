@@ -1,0 +1,28 @@
+.contacts {
+    height: 50vh;
+    background-color: #8eadd0;
+    border: 1px solid;
+}
+
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    background-color: #c4c4cb;
+}
+
+.form {
+    border: 1px solid;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    background-color: #c4c4cb;
+    padding: 5px;
+}

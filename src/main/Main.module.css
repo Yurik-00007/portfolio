@@ -1,0 +1,19 @@
+.mainBlock {
+    height: 100vh;
+    background-color: #d7bbe0;
+}
+.mainContainer{
+    justify-content: space-between;
+}
+
+.text {
+    width: 300px;
+    background-color: #8a8585;
+    border: 1px solid red;
+}
+
+.photo {
+    background-color: #8a8585;
+    width: 300px;
+    height: 300px;
+}

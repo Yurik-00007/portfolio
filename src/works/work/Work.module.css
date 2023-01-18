@@ -1,0 +1,29 @@
+.work {
+    border: 1px solid;
+    width: 32.333%;
+    background-color: #c1e3ac;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    background-color: #c4c4cb;
+}
+.link{
+    padding: 10px 20px;
+    background-color: #948e8e;
+}
+.wraper{
+    padding: 5px 20px;
+}
+.discription{
+
+}
+
+
