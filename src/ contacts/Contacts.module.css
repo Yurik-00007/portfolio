@@ -7,7 +7,7 @@
 .contactsContainer {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -25,4 +25,5 @@
 .link {
     background-color: #c4c4cb;
     padding: 5px;
+    text-decoration:none;
 }

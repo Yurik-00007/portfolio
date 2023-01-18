@@ -8,7 +8,7 @@ export const RemoteWork = () => {
         <div className={style.removeWork}>
             <div className={`${style.removeWorkContainer} ${styleContainer.container} `}>
                 <h3 className={style.title}>Рассматриваю варианты удаленной работы</h3>
-                <span className={style.link}>Нанять меня</span>
+                <a href={''} className={style.link}>Нанять меня</a>
             </div>
         </div>
     );
