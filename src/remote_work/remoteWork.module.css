@@ -1,19 +1,22 @@
-.removeWork{
+.removeWork {
     height: 100px;
     background-color: greenyellow;
     border: 1px solid;
 }
-.removeWorkContainer{
-display: flex;
+
+.removeWorkContainer {
+    display: flex;
     flex-direction: column;
-    
+
 }
-.title{
+
+.title {
     background-color: #c4c4cb;
 }
-.link{
+
+.link {
     background-color: #c4c4cb;
-padding: 5px;
-    text-decoration:none;
+    padding: 5px;
+    text-decoration: none;
 
 }
